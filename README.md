@@ -1,5 +1,5 @@
 # CWOPSpotter
-# G%KIT [2080], Feb 2019
+# G5KIT [2080], Feb 2019
 
 # WHAT IS CWOPSPOTTER?
 The script does two things. It fetches a CWOPs member list from
